@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijay</h1>
 <h3 align="center">Aspiring Software Engineer | Machine Learning & Web Enthusiast</h3>
 
-- 🌱 I’m currently learning **C++,Computational Methods**
+- 🌱 I’m currently learning C++,Python and  Computational Methods. 
 
 - 📫 How to reach me :[Gmail](https://linkedin.com/in/bijaydhungana07)
 
